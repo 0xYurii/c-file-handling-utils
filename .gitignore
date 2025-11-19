@@ -1,0 +1,10 @@
+*.o
+*.out
+myprogram
+comparator
+counter
+linecounter
+main_menu
+merger
+reader
+*.docx

@@ -1,0 +1,6 @@
+Hello, this is test data for ex1_q1.c.
+This file contains multiple lines and characters.
+Line 2: The quick brown fox jumps over the lazy dog.
+Line 3: Numbers: 1234567890
+Line 4: Special chars: !@#$%^&*()_+-=[]{};':",.<>/?
+End of file.
